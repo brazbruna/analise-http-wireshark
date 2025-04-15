@@ -1,5 +1,5 @@
 # analise-http-wireshark
-Estudo técnico de análise de tráfego de rede com Wireshark
+Estudo técnico de análise de tráfego de rede com Wireshark.
 
 # Análise de Requisição HTTP com Wireshark
 
@@ -35,4 +35,4 @@ Através desse estudo técnico eu consegui aprofundar meus conhecimento em:
 ###  Observações
 - Esse tipo de análise é comum em redes internas e pode ajudar na detecção de tráfego suspeito.
 - Visto que o protocolo HTTP não utiliza criptografia, ele não é seguro para o envio de senhas e informações pessoais. 
-- Diferente do protocolo HTTP, na conexões HTTPS os dados trafegam protegidos devido à criptografia TLS
+- Diferente do protocolo HTTP, na conexões HTTPS os dados trafegam protegidos devido à criptografia TLS.
